@@ -84,7 +84,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 9. Open IIS as admin and register PHP in IIS
 <p>
-<img src="" height="80%" width="80%" alt="Register PHP"/>
+<img src="https://i.imgur.com/r4C3O5h.png" height="80%" width="80%" alt="Register PHP"/>
 </p>
 <br />
 
@@ -98,8 +98,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 11. Enable extensions in IIS
 <p>
-<img src="https://i.imgur.com/NtrqzVc.png" height="80%" width="80%" alt="Enable IIS Extensions"/>
+<img src="https://i.imgur.com/mllfQFV.png" height="80%" width="80%" alt="Enable IIS Extensions"/>
 </p>
 <br />
 
 12. Assign permissions
+  
+13. Download and install HeidiSQL
+<p>
+<img src="https://i.imgur.com/g6gx3Al.png" height="80%" width="80%" alt="Downloading and Installing HeidiSQL"/>
+</p>
+<br />
+
+14. Continue setting up osTicket in the browser
+<p>
+<img src="https://i.imgur.com/e79tqHd.png" height="80%" width="80%" alt="osTicket"/>
+</p>
+<p>
+<img src="https://i.imgur.com/XY6Fnao.png" height="80%" width="80%" alt="osTicket"/>
+</p>
+<br />
